@@ -6,28 +6,42 @@
        style="object-fit: cover; border-radius: 8px;" />
 </p>
 
-<h1 align="center"> Hey, I'm Tashfin (Syed Mohammad Shah Mostafa)</h1>
+<h1 align="center">👋 Hey, I'm Tashfin (Syed Mohammad Shah Mostafa)</h1>
 
+<!-- SOCIAL ICONS -->
 <p align="center">
-  <a href="https://syedtashfin.vercel.app" target="_blank">🌐 Portfolio</a> •
-  <a href="mailto:syed-mohammad.shah_mostafa@edu.devinci.fr">📧 Email</a> •
-  <a href="https://linkedin.com/in/syed-mohammad-shah-mostafa">💼 LinkedIn</a> •
-  <a href="https://github.com/Confused-coder1919">🐙 GitHub</a>
+  <a href="https://linkedin.com/in/syed-mohammad-shah-mostafa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Confused-coder1919" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:syed-mohammad.shah_mostafa@edu.devinci.fr">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://syedtashfin.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+<!-- PROFILE VIEW COUNTER -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Confused-coder1919&color=blue" alt="Profile Views" />
 </p>
 
 ---
 
-###  About Me  
+### 🧭 About Me  
 
 I’m a **security-focused full-stack developer and instructor** passionate about building modern, resilient web applications with **React/Next.js**, **Node.js**, and **PostgreSQL** — combining scalability, automation, and defense-in-depth.  
 
- Master’s (M2) in **Cybersecurity & Cloud Computing**, ESILV Paris  
- BSc (Hons) **Computing**, University of Greenwich — *First Class*  
- Focused on **DevSecOps, Cloud Architecture, Zero-Trust Systems**, and **AI Workflow Automation (n8n, Agentic AI)**  
+🎓 Master’s (M2) in **Cybersecurity & Cloud Computing**, ESILV Paris  
+🎓 BSc (Hons) **Computing**, University of Greenwich — *First Class*  
+💼 Focused on **DevSecOps, Cloud Architecture, Zero-Trust Systems**, and **AI Workflow Automation (n8n, Agentic AI)**  
 
 ---
 
-###  Key Achievements  
+### 🏆 Key Achievements  
 
 - QUALIOPI-certified **Trainer & Security Engineer** @ *Linguistic Communication*  
 - Architected scalable, GDPR-compliant **Node.js + PostgreSQL** backends with CI/CD  
@@ -37,9 +51,9 @@ I’m a **security-focused full-stack developer and instructor** passionate abou
 
 ---
 
-###  Tech Stack & Tools
+### 🧰 Tech Stack & Tools
 
-####  **Frontend**
+#### 🎨 **Frontend**
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -47,7 +61,7 @@ I’m a **security-focused full-stack developer and instructor** passionate abou
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?logo=mui&logoColor=white)
 
-####  **Backend**
+#### ⚙️ **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
@@ -56,7 +70,7 @@ I’m a **security-focused full-stack developer and instructor** passionate abou
 ![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
 ![Performance Optimization](https://img.shields.io/badge/Performance_Optimization-FF5733)
 
-####  **Cloud & Automation**
+#### ☁️ **Cloud & Automation**
 ![Azure](https://img.shields.io/badge/Azure-0078D7?logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Hostinger](https://img.shields.io/badge/Hostinger-673AB7?logo=hostinger&logoColor=white)
@@ -65,7 +79,7 @@ I’m a **security-focused full-stack developer and instructor** passionate abou
 ![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?logo=githubactions&logoColor=white)
 ![IaC](https://img.shields.io/badge/Infrastructure_as_Code-006400)
 
-####  **Security & DevOps**
+#### 🔐 **Security & DevOps**
 ![API Security](https://img.shields.io/badge/API_Security-🔒-red)
 ![PenTesting](https://img.shields.io/badge/PenTesting-8B0000)
 ![GRC](https://img.shields.io/badge/Governance_Risk_Compliance-4682B4)
@@ -73,7 +87,7 @@ I’m a **security-focused full-stack developer and instructor** passionate abou
 ![Threat Modeling](https://img.shields.io/badge/Threat_Modeling-9400D3)
 ![Secrets Management](https://img.shields.io/badge/Secrets_Management-800080)
 
-####  **Blockchain & AI**
+#### 🧠 **Blockchain & AI**
 ![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?logo=web3dotjs&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white)
@@ -81,7 +95,7 @@ I’m a **security-focused full-stack developer and instructor** passionate abou
 ![Whisper](https://img.shields.io/badge/Whisper-Voice_AI-4682B4)
 ![AI Automation](https://img.shields.io/badge/AI_Automation-5F9EA0)
 
-####  **Tools**
+#### 🧩 **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
@@ -92,7 +106,7 @@ I’m a **security-focused full-stack developer and instructor** passionate abou
 
 ---
 
-###  Experience  
+### 💼 Experience  
 
 **Cybersecurity & Full-Stack Engineering Intern — Linguistic Communication (Paris)**  
 > Built secure, scalable infrastructure and integrated AI-driven automation into EdTech systems.
@@ -105,7 +119,7 @@ I’m a **security-focused full-stack developer and instructor** passionate abou
 
 ---
 
-###  GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Confused-coder1919&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165" />
@@ -114,7 +128,7 @@ I’m a **security-focused full-stack developer and instructor** passionate abou
 
 ---
 
-###  Featured Projects
+### 🧩 Featured Projects
 
 | Project | Description | Tech Stack |
 |:--|:--|:--|
@@ -124,7 +138,7 @@ I’m a **security-focused full-stack developer and instructor** passionate abou
 
 ---
 
-###  Contact  
+### 📫 Contact  
 
 📍 Saint-Ouen, Île-de-France, France  
 📧 [syed-mohammad.shah_mostafa@edu.devinci.fr](mailto:syed-mohammad.shah_mostafa@edu.devinci.fr)  
