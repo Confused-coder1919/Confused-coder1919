@@ -1,7 +1,8 @@
 <!-- HEADER BANNER (optional — you can replace the link below with your own banner image hosted on GitHub or Vercel) -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/Confused-coder1919/Confused-coder1919/main/banner.png" alt="Banner" width="100%" />
-
+  <img src="https://images.unsplash.com/photo-1555949963-aa79dcee981c?auto=format&fit=crop&w=1920&q=80" 
+       alt="Syed Mohammad Shah Mostafa — Full Stack | DevSecOps | Cloud" 
+       width="100%" />
 </p>
 
 #  Hey, I'm Syed Mohammad Shah Mostafa  
