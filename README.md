@@ -145,12 +145,10 @@ I’m a **security-focused full-stack developer and instructor** passionate abou
 
 ---
 
-###  Contact  
+###  Location  
 
 📍 Saint-Ouen, Île-de-France, France  
-📧 [syed-mohammad.shah_mostafa@edu.devinci.fr](mailto:syed-mohammad.shah_mostafa@edu.devinci.fr)  
-🌐 [syedtashfin.vercel.app](https://syedtashfin.vercel.app)  
-💼 [LinkedIn](https://linkedin.com/in/syed-mohammad-shah-mostafa) | 🐙 [GitHub](https://github.com/Confused-coder1919)  
+ 
 
 ---
 
