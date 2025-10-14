@@ -1,9 +1,10 @@
 <!-- HEADER BANNER (optional — you can replace the link below with your own banner image hosted on GitHub or Vercel) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Confused-coder1919/Confused-coder1919/main/banner.png" alt="Syed Mohammad Shah Mostafa — Full Stack | DevSecOps | Cloud" width="100%" />
+<img src="https://raw.githubusercontent.com/Confused-coder1919/Confused-coder1919/main/banner.png" alt="Banner" width="100%" />
+
 </p>
 
-# 👋 Hey, I'm Syed Mohammad Shah Mostafa  
+#  Hey, I'm Syed Mohammad Shah Mostafa  
 
 🎯 [**Visit My Portfolio → syedtashfin.vercel.app**](https://syedtashfin.vercel.app)  
 
