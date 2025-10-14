@@ -1,55 +1,111 @@
-<!-- HEADER BANNER (optional — you can replace the link below with your own banner image hosted on GitHub or Vercel) -->
+<!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1555949963-aa79dcee981c?auto=format&fit=crop&w=1920&q=80"
-       alt="Syed Mohammad Shah Mostafa — Full Stack | DevSecOps | Cloud"
+  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1920&q=80&h=180"
+       alt="Tashfin — Full-Stack Developer | Cybersecurity | Cloud Architect"
        width="100%" height="130px"
        style="object-fit: cover; border-radius: 8px;" />
 </p>
 
+<h1 align="center"> Hey, I'm Tashfin (Syed Mohammad Shah Mostafa)</h1>
 
-
-#  Hey, I'm Syed Mohammad Shah Mostafa  
-
-🎯 [**Visit My Portfolio → syedtashfin.vercel.app**](https://syedtashfin.vercel.app)  
-
----
-
-**💻 Full-Stack Developer · 🔐 DevSecOps Engineer · ☁️ Cloud Enthusiast**
-
-Building secure, scalable systems that merge software engineering with cybersecurity and cloud automation.  
-Currently pursuing my **Master’s in Cybersecurity & Cloud Computing** at **ESILV Paris**, while teaching **IT English & Technical Communication** at **IPI Paris** and **American Business College (ABC)**.
-
--  Based in Paris / Île-de-France, France  
--  Pursuing a Master’s in Cybersecurity & Cloud Computing at ESILV  
--  BSc (Hons) in Computing, University of Greenwich  
--  Also teaching at IPI Paris & American Business College (ABC) 
+<p align="center">
+  <a href="https://syedtashfin.vercel.app" target="_blank">🌐 Portfolio</a> •
+  <a href="mailto:syed-mohammad.shah_mostafa@edu.devinci.fr">📧 Email</a> •
+  <a href="https://linkedin.com/in/syed-mohammad-shah-mostafa">💼 LinkedIn</a> •
+  <a href="https://github.com/Confused-coder1919">🐙 GitHub</a>
+</p>
 
 ---
 
-### 🧰 Tech Stack & Tools
+###  About Me  
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+I’m a **security-focused full-stack developer and instructor** passionate about building modern, resilient web applications with **React/Next.js**, **Node.js**, and **PostgreSQL** — combining scalability, automation, and defense-in-depth.  
+
+ Master’s (M2) in **Cybersecurity & Cloud Computing**, ESILV Paris  
+ BSc (Hons) **Computing**, University of Greenwich — *First Class*  
+ Focused on **DevSecOps, Cloud Architecture, Zero-Trust Systems**, and **AI Workflow Automation (n8n, Agentic AI)**  
+
+---
+
+###  Key Achievements  
+
+- QUALIOPI-certified **Trainer & Security Engineer** @ *Linguistic Communication*  
+- Architected scalable, GDPR-compliant **Node.js + PostgreSQL** backends with CI/CD  
+- Built **AI-assisted DevOps automations** using *n8n* & *DeepSeek*  
+- Delivered **Agile, DevOps, and Web Development** modules at *IPI Paris* & *ABC (Igensia Group)*  
+- Cisco Academy: **Data Science** & **Operating Systems** Certified  
+
+---
+
+###  Tech Stack & Tools
+
+####  **Frontend**
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?logo=mui&logoColor=white)
+
+####  **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-Workflow_Automation-orange)
+![REST APIs](https://img.shields.io/badge/REST_API-02569B?logo=swagger&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
+![Performance Optimization](https://img.shields.io/badge/Performance_Optimization-FF5733)
+
+####  **Cloud & Automation**
+![Azure](https://img.shields.io/badge/Azure-0078D7?logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![Hostinger](https://img.shields.io/badge/Hostinger-673AB7?logo=hostinger&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-Workflow_Automation-orange)
+![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?logo=githubactions&logoColor=white)
+![IaC](https://img.shields.io/badge/Infrastructure_as_Code-006400)
+
+####  **Security & DevOps**
 ![API Security](https://img.shields.io/badge/API_Security-🔒-red)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![PenTesting](https://img.shields.io/badge/PenTesting-8B0000)
+![GRC](https://img.shields.io/badge/Governance_Risk_Compliance-4682B4)
+![GDPR](https://img.shields.io/badge/GDPR_Compliance-0047AB)
+![Threat Modeling](https://img.shields.io/badge/Threat_Modeling-9400D3)
+![Secrets Management](https://img.shields.io/badge/Secrets_Management-800080)
+
+####  **Blockchain & AI**
+![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?logo=web3dotjs&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-AI_Assistant-00CED1)
+![Whisper](https://img.shields.io/badge/Whisper-Voice_AI-4682B4)
+![AI Automation](https://img.shields.io/badge/AI_Automation-5F9EA0)
+
+####  **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
+![Linear](https://img.shields.io/badge/Linear-5E6AD2?logo=linear&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+###  Experience  
+
+**Cybersecurity & Full-Stack Engineering Intern — Linguistic Communication (Paris)**  
+> Built secure, scalable infrastructure and integrated AI-driven automation into EdTech systems.
+
+**Instructor (ESL & IT) — IPI Paris & ABC (Igensia Group)**  
+> Teaching Agile, DevOps, Web Development, and Digital Strategies with industry-based labs.
+
+**Backend Developer — Paijar (London)**  
+> Developed RESTful APIs and optimized database architecture for performance and scalability.
+
+---
+
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Confused-coder1919&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165" />
@@ -58,7 +114,7 @@ Currently pursuing my **Master’s in Cybersecurity & Cloud Computing** at **ESI
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 | Project | Description | Tech Stack |
 |:--|:--|:--|
@@ -68,22 +124,17 @@ Currently pursuing my **Master’s in Cybersecurity & Cloud Computing** at **ESI
 
 ---
 
-### 🌐 Connect with Me
+###  Contact  
 
-📫 **syed-mohammad.shah_mostafa@edu.devinci.fr**  
-🌍 [**Portfolio**](https://syedtashfin.vercel.app)  
-💼 [**LinkedIn**](https://linkedin.com/in/syed-mohammad-shah-mostafa)  
-🐙 [**GitHub**](https://github.com/Confused-coder1919)  
-
----
-
-### ⚡ Fun Fact  
-
-> “Turning risk into robust engineering — and language into leadership.”  
+📍 Saint-Ouen, Île-de-France, France  
+📧 [syed-mohammad.shah_mostafa@edu.devinci.fr](mailto:syed-mohammad.shah_mostafa@edu.devinci.fr)  
+🌐 [syedtashfin.vercel.app](https://syedtashfin.vercel.app)  
+💼 [LinkedIn](https://linkedin.com/in/syed-mohammad-shah-mostafa) | 🐙 [GitHub](https://github.com/Confused-coder1919)  
 
 ---
 
 <p align="center">
-  <i>Made using Next.js, Tailwind CSS, and endless curiosity.</i><br>
-  © 2025 Syed Mohammad Shah Mostafa
+  <i>“Turning risk into robust engineering decisions and polished user experiences.”</i><br><br>
+  <b>Available for hire · © 2025 Syed Mohammad Shah Mostafa</b><br>
+  <sub>Made using Next.js & Tailwind CSS</sub>
 </p>
