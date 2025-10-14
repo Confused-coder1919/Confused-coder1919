@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://images.unsplash.com/photo-1555949963-aa79dcee981c?auto=format&fit=crop&w=1920&q=80"
        alt="Syed Mohammad Shah Mostafa — Full Stack | DevSecOps | Cloud"
-       width="100%" height="180px"
+       width="100%" height="130px"
        style="object-fit: cover; border-radius: 8px;" />
 </p>
 
