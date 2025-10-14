@@ -1,9 +1,11 @@
 <!-- HEADER BANNER (optional — you can replace the link below with your own banner image hosted on GitHub or Vercel) -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1555949963-aa79dcee981c?auto=format&fit=crop&w=1920&q=80" 
-       alt="Syed Mohammad Shah Mostafa — Full Stack | DevSecOps | Cloud" 
-       width="100%" />
+  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1920&q=80&h=180"
+       alt="Tech Banner — Full Stack | Cloud | DevSecOps"
+       width="100%" height="180px"
+       style="object-fit: cover; border-radius: 8px;" />
 </p>
+
 
 #  Hey, I'm Syed Mohammad Shah Mostafa  
 
