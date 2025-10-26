@@ -2,9 +2,10 @@
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/La_D%C3%A9fense%2C_Paris%2C_France_at_night.jpg"
        alt="La Défense, Paris — Technology & Business District Skyline"
-       width="100%" height="130px"
+       width="100%" height="190px"
        style="object-fit: cover; border-radius: 8px;" />
 </p>
+
 <!-- ANIMATED GRADIENT LINE -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Confused-coder1919/Confused-coder1919/main/assets/gradient-line.gif" 
