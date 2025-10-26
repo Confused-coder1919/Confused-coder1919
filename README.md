@@ -6,13 +6,6 @@
        style="object-fit: cover; border-radius: 8px;" />
 </p>
 
-<!-- ANIMATED GRADIENT LINE -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Confused-coder1919/Confused-coder1919/main/assets/gradient-line.gif" 
-       alt="animated gradient line" width="100%" height="4px" 
-       style="border-radius: 2px; margin-top: -10px;" />
-</p>
-
 <h1 align="center">👋 Hey, I'm Tashfin (Syed Mohammad Shah Mostafa)</h1>
 
 <!-- SOCIAL ICONS -->
