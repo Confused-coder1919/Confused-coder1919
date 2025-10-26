@@ -8,7 +8,7 @@
 
 <!-- ANIMATED GRADIENT LINE -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Confused-coder1919/Confused-coder1919/main/assets/gradient-line.gif" 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Panorama_La_D%C3%A9fense.jpg" 
        alt="animated gradient line" width="100%" height="4px" 
        style="border-radius: 2px; margin-top: -10px;" />
 </p>
