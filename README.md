@@ -1,14 +1,14 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1920&q=80&h=180"
-       alt="Tashfin — Full-Stack Developer | Cybersecurity | Cloud Architect"
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Panorama_La_D%C3%A9fense.jpg"
+       alt="La Défense Skyline — Paris Technology District"
        width="100%" height="130px"
        style="object-fit: cover; border-radius: 8px;" />
 </p>
 
 <!-- ANIMATED GRADIENT LINE -->
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Panorama_La_D%C3%A9fense.jpg" 
+  <img src="https://raw.githubusercontent.com/Confused-coder1919/Confused-coder1919/main/assets/gradient-line.gif" 
        alt="animated gradient line" width="100%" height="4px" 
        style="border-radius: 2px; margin-top: -10px;" />
 </p>
