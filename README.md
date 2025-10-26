@@ -20,8 +20,8 @@
   <a href="https://linkedin.com/in/syed-mohammad-shah-mostafa" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Confused-coder1919" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://wa.me/33667135850?text=Hi%20Syed%2C%20I%27d%20like%20to%20discuss%20a%20project." target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="mailto:syed-mohammad.shah_mostafa@edu.devinci.fr">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
@@ -139,9 +139,9 @@ I’m a **security-focused full-stack developer and instructor** passionate abou
 
 | Project | Description | Tech Stack |
 |:--|:--|:--|
-| [**HopeChain Medical**](https://syedtashfin.vercel.app) | Telemedicine platform focused on secure patient-doctor connections. | Next.js · Express · PostgreSQL |
-| [**Linguistic Communication Portal**](https://linguisticcommunication.com) | E-learning & course automation system for schools and businesses. | WordPress · LearnPress · n8n · Stripe |
-| [**SyntaxMap AI**](https://syedtashfin.vercel.app) | AI assistant for academic writing & translation workflows. | Next.js · TypeScript · Tailwind |
+| [**E-Voting DApp — Blockchain Voting System**](https://syedtashfin.vercel.app/Evoting.mp4) | Telemedicine platform focused on secure patient-doctor connections. | Next.js · Express · PostgreSQL |
+| [**Linguistic Communication Portal**](https://linguistic-communication.com/) | E-learning & course automation system for schools and businesses. | WordPress · LearnPress · n8n · Stripe |
+| [**SyntaxMap AI**](https://syntax-map.com/) | AI assistant for academic writing & translation workflows. | Next.js · TypeScript · Tailwind |
 
 ---
 
