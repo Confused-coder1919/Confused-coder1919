@@ -139,7 +139,7 @@ I’m a **security-focused full-stack developer and instructor** passionate abou
 
 | Project | Description | Tech Stack |
 |:--|:--|:--|
-| <a href="https://syedtashfin.vercel.app/Evoting.mp4" target="_blank"><b>E-Voting DApp — Blockchain Voting System ↗</b></a> | Decentralized eVoting application enabling secure, transparent, and tamper-proof elections using Ethereum smart contracts. | Next.js · Express · PostgreSQL |
+| <a href="https://syedtashfin.vercel.app/Evoting.mp4" target="_blank"><b>E-Voting DApp — Blockchain Voting System ↗</b></a> | Decentralized eVoting application enabling secure, transparent, and tamper-proof elections using Ethereum smart contracts. | Next.js · Node.js · Solidity · Ethereum · Web3.js · Truffle · Ganache |
 | <a href="https://linguistic-communication.com/" target="_blank"><b>Linguistic Communication Portal ↗</b></a> | E-learning & course automation system for schools and businesses. | WordPress · LearnPress · n8n · Stripe |
 | <a href="https://syntax-map.com/" target="_blank"><b>SyntaxMap AI ↗</b></a> | AI assistant for academic writing & translation workflows. | Next.js · TypeScript · Tailwind |
 
