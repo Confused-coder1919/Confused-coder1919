@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://imgur.com/k1wQ2s1"
+  <img src="https://i.imgur.com/k1wQ2s1.jpg"
        alt="La Défense, Paris — Technology & Business District Skyline"
        width="100%" height="190px"
        style="object-fit: cover; border-radius: 8px;" />
