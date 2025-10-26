@@ -137,13 +137,22 @@ I’m a **security-focused full-stack developer and instructor** passionate abou
 
 ###  Featured Projects
 
+<style>
+a span.link-arrow {
+  color: #e6c84a;               /* Softer yellow for dark mode */
+  transition: color 0.2s ease;  /* Smooth hover transition */
+}
+a:hover span.link-arrow {
+  color: #FFD24A;               /* Bright brand yellow on hover */
+}
+</style>
+
 | Project | Description | Tech Stack |
 |:--|:--|:--|
-| [**E-Voting DApp — Blockchain Voting System**](https://syedtashfin.vercel.app/Evoting.mp4) | Telemedicine platform focused on secure patient-doctor connections. | Next.js · Express · PostgreSQL |
-| [**Linguistic Communication Portal**](https://linguistic-communication.com/) | E-learning & course automation system for schools and businesses. | WordPress · LearnPress · n8n · Stripe |
-| [**SyntaxMap AI**](https://syntax-map.com/) | AI assistant for academic writing & translation workflows. | Next.js · TypeScript · Tailwind |
+| <a href="https://syedtashfin.vercel.app/Evoting.mp4" target="_blank"><b>E-Voting DApp — Blockchain Voting System <span class="link-arrow">↗</span></b></a> | Decentralized eVoting application enabling secure, transparent, and tamper-proof elections using Ethereum smart contracts. | Next.js · Express · PostgreSQL |
+| <a href="https://linguistic-communication.com/" target="_blank"><b>Linguistic Communication Portal <span class="link-arrow">↗</span></b></a> | E-learning & course automation system for schools and businesses. | WordPress · LearnPress · n8n · Stripe |
+| <a href="https://syntax-map.com/" target="_blank"><b>SyntaxMap AI <span class="link-arrow">↗</span></b></a> | AI assistant for academic writing & translation workflows. | Next.js · TypeScript · Tailwind |
 
----
 
 ###  Location  
 
