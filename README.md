@@ -19,7 +19,7 @@
   <a href="mailto:syed-mohammad.shah_mostafa@edu.devinci.fr">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://syedtashfin.vercel.app" target="_blank">
+  <a href="https://syedtashfin.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
