@@ -6,7 +6,7 @@
        style="object-fit: cover; border-radius: 8px;" />
 </p>
 
-<h1 align="center">👋 Hey, I'm Tashfin (Syed Mohammad Shah Mostafa)</h1>
+<h1 align="center">👋 Bonjour, I'm Tashfin (Syed Mohammad Shah Mostafa)</h1>
 
 <!-- SOCIAL ICONS -->
 <p align="center">
