@@ -66,8 +66,6 @@ BSc (Hons) Computing — University of Greenwich (First Class)
 | <a href="https://github.com/Confused-coder1919/Thales-optronic-video-indexing" target="_blank"><b>AI-Powered Video Indexing (End-to-End) ↗</b></a> | Transforms unstructured video into searchable entity analytics (timelines, galleries, reports). Includes automated processing pipelines + semantic search + speech-to-text alignment for richer retrieval. | FastAPI · React · Celery/Redis · Whisper · CV models |
 | <a href="https://syedtashfin.vercel.app/Evoting.mp4" target="_blank"><b>E-Voting DApp ↗</b></a> | Decentralized voting system using smart contracts for transparent, tamper-resistant elections. | Next.js · Solidity · Ethereum · Web3 |
 
-> If you prefer to showcase your production platform instead of E-Voting: swap in **Linguistic Communication Platform** link here.
-
 ---
 
 ## Engineering Focus
@@ -130,12 +128,24 @@ Designed REST APIs and optimized database architecture for performance, scalabil
 
 ---
 
-## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Confused-coder1919&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Confused-coder1919&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165" />
-</p>
+## What I bring to a team
+
+I enjoy in building **end-to-end systems**, compared to just isolated features:
+
+- Designing distributed architectures (multi-service coordination, failure tolerance)
+- Shipping reproducible data + ML pipelines (local → cloud parity)
+- Building local-first AI systems with strict contracts and observability
+- Implementing DevSecOps practices: CI/CD, secrets hygiene, least privilege, threat modeling
+- Turning vague ideas into runnable systems with documentation and demos
+
+I’m especially interested in roles involving:
+
+- DevOps / Platform Engineering  
+- Backend or Full-Stack Engineering  
+- Data / ML Infrastructure  
+- Applied AI Systems  
+- Cloud Architecture  
 
 ---
 
