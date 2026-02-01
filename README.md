@@ -78,7 +78,7 @@ BSc (Hons) Computing — University of Greenwich (First Class)
 
 ---
 
-## Tech Stack (high-signal, not everything)
+## Tech Stack 
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
