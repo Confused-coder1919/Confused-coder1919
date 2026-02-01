@@ -6,21 +6,24 @@
        style="object-fit: cover; border-radius: 8px;" />
 </p>
 
-<h1 align="center">👋 Bonjour, I'm Tashfin (Syed Mohammad Shah Mostafa)</h1>
+<h1 align="center">Bonjour, I'm Tashfin (Syed Mohammad Shah Mostafa)</h1>
+<p align="center">
+  Systems-minded engineer focused on <b>DevSecOps</b>, <b>cloud-native architectures</b>, <b>distributed systems</b>, and <b>local-first AI</b>.
+</p>
 
 <!-- SOCIAL ICONS -->
 <p align="center">
   <a href="https://linkedin.com/in/syed-mohammad-shah-mostafa" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://wa.me/33667135850?text=Hi%20Syed%2C%20I%27d%20like%20to%20discuss%20a%20project." target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  <a href="https://syedtashfin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:syed-mohammad.shah_mostafa@edu.devinci.fr">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://syedtashfin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" alt="Portfolio" />
+  <a href="https://github.com/Confused-coder1919" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -31,95 +34,103 @@
 
 ---
 
-###  About Me  
+## About Me
 
-I’m a **security-focused full-stack developer and instructor** passionate about building modern, resilient web applications with **React/Next.js**, **Node.js**, and **PostgreSQL** — combining scalability, automation, and defense-in-depth.  
+I build systems that are **reproducible**, **observable**, and **deployable**. My recent work sits at the intersection of:
 
- Master’s (M2) in **Cybersecurity & Cloud Computing**, ESILV Paris  
- BSc (Hons) **Computing**, University of Greenwich — *First Class*  
- Focused on **DevSecOps, Cloud Architecture, Zero-Trust Systems**, and **AI Workflow Automation (n8n, Agentic AI)**  
+- **Local-first AI orchestration** (multi-model consensus pipelines on Ollama, no cloud inference)
+- **Cloud analytics + ML pipelines** (Spark → features → model → evaluation → dashboard artifacts)
+- **DevSecOps** and automation (secure deployments, CI/CD, infrastructure-as-code patterns)
+- **Full-stack engineering** where it’s useful (TypeScript/Node, React/Vite/Next.js)
 
----
-
-###  Key Achievements  
-
-- QUALIOPI-certified **Trainer & Security Engineer** @ *Linguistic Communication*  
-- Architected scalable, GDPR-compliant **Node.js + PostgreSQL** backends with CI/CD  
-- Built **AI-assisted DevOps automations** using *n8n* & *DeepSeek*  
-- Delivered **Agile, DevOps, and Web Development** modules at *IPI Paris* & *ABC (Igensia Group)*  
-- Cisco Academy: **Data Science** & **Operating Systems** Certified  
+**M2 Cybersecurity & Cloud Computing — ESILV Paris**  
+BSc (Hons) Computing — University of Greenwich (First Class)
 
 ---
 
-###  Tech Stack & Tools
+## What I’m focused on right now
 
-####  **Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+- Local multi-service AI systems (agentic / council-style orchestration, strict contracts, run history)
+- Cloud-ready data engineering + ML workflows (local ↔ cloud parity)
+- Secure-by-default engineering: secrets hygiene, threat modeling, least privilege
+- Automation that actually reduces toil (n8n, scripting, CI/CD)
+
+---
+
+## Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| <a href="https://github.com/Confused-coder1919/Local-Multi-LLM-Orchestrator" target="_blank"><b>LLM Council – Local Multi-LLM Orchestrator ↗</b></a> | Local-first distributed multi-LLM orchestration: models answer independently, anonymized peer-review each other, and a chairman model synthesizes a final response. Includes strict JSON/Zod contracts, SQLite run history, health/heartbeat, and a UI showing stages + latency. | Node.js · TypeScript · Ollama · Zod · SQLite · Vite |
+| <a href="https://github.com/Confused-coder1919/Cloud-Analytics-ML-Pipeline" target="_blank"><b>Cloud Analytics ML Pipeline ↗</b></a> | Reproducible Spark/ML pipeline: ingestion → parquet → session features → baseline model → evaluation → dashboard exports. Runs locally or on GCP Dataproc Serverless with config-driven portability and clean separation between code and datasets. | PySpark · Spark MLlib · GCP · Dataproc · Streamlit |
+| <a href="https://github.com/Confused-coder1919/Thales-optronic-video-indexing" target="_blank"><b>AI-Powered Video Indexing (End-to-End) ↗</b></a> | Transforms unstructured video into searchable entity analytics (timelines, galleries, reports). Includes automated processing pipelines + semantic search + speech-to-text alignment for richer retrieval. | FastAPI · React · Celery/Redis · Whisper · CV models |
+| <a href="https://syedtashfin.vercel.app/Evoting.mp4" target="_blank"><b>E-Voting DApp ↗</b></a> | Decentralized voting system using smart contracts for transparent, tamper-resistant elections. | Next.js · Solidity · Ethereum · Web3 |
+
+> If you prefer to showcase your production platform instead of E-Voting: swap in **Linguistic Communication Platform** link here.
+
+---
+
+## Engineering Focus
+
+- **Distributed systems & orchestration** (multi-service coordination, failure tolerance)
+- **Local-first AI** (Ollama-based inference, no cloud model providers)
+- **Cloud + data pipelines** (Spark, portability, reproducibility)
+- **Security & DevSecOps** (secrets hygiene, least privilege, secure deployment patterns)
+- **Observability** (health checks, latency, run history, dashboards)
+
+---
+
+## Tech Stack (high-signal, not everything)
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?logo=mui&logoColor=white)
 
-####  **Backend**
+**Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+
+**Backend & Data**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_API-02569B?logo=swagger&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
-![Performance Optimization](https://img.shields.io/badge/Performance_Optimization-FF5733)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apachespark&logoColor=white)
 
-####  **Cloud & Automation**
-![Azure](https://img.shields.io/badge/Azure-0078D7?logo=microsoftazure&logoColor=white)
+**Cloud & DevOps**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Hostinger](https://img.shields.io/badge/Hostinger-673AB7?logo=hostinger&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
+
+**AI / Local Inference**  
+![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-4B0082)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
+
+**Automation**  
 ![n8n](https://img.shields.io/badge/n8n-Workflow_Automation-orange)
-![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?logo=githubactions&logoColor=white)
-![IaC](https://img.shields.io/badge/Infrastructure_as_Code-006400)
-
-####  **Security & DevOps**
-![API Security](https://img.shields.io/badge/API_Security-🔒-red)
-![PenTesting](https://img.shields.io/badge/PenTesting-8B0000)
-![GRC](https://img.shields.io/badge/Governance_Risk_Compliance-4682B4)
-![GDPR](https://img.shields.io/badge/GDPR_Compliance-0047AB)
-![Threat Modeling](https://img.shields.io/badge/Threat_Modeling-9400D3)
-![Secrets Management](https://img.shields.io/badge/Secrets_Management-800080)
-
-####  **Blockchain & AI**
-![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?logo=web3dotjs&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-AI_Assistant-00CED1)
-![Whisper](https://img.shields.io/badge/Whisper-Voice_AI-4682B4)
-![AI Automation](https://img.shields.io/badge/AI_Automation-5F9EA0)
-
-####  **Tools**
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
-![Linear](https://img.shields.io/badge/Linear-5E6AD2?logo=linear&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
 
 ---
 
-###  Experience  
+## Experience 
 
-**Cybersecurity & Full-Stack Engineering Intern — Linguistic Communication (Paris)**  
-> Built secure, scalable infrastructure and integrated AI-driven automation into EdTech systems.
+**Cybersecurity & Full-Stack Engineering — Linguistic Communication (Paris)**  
+Built secure systems and automation workflows for EdTech operations; integrated tooling for reliability, observability, and maintainability.
 
-**Instructor (ESL & IT) — IPI Paris & ABC (Igensia Group)**  
-> Teaching Agile, DevOps, Web Development, and Digital Strategies with industry-based labs.
+**Instructor (IT/Business English + Tech modules) — IPI Paris & Igensia Group (ABC)**  
+Delivered hands-on modules (Agile, DevOps, Web, Digital Strategy) with labs and assessment-driven teaching.
 
 **Backend Developer — Paijar (London)**  
-> Developed RESTful APIs and optimized database architecture for performance and scalability.
+Designed REST APIs and optimized database architecture for performance, scalability, and maintainability.
 
 ---
 
-###  GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Confused-coder1919&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165" />
@@ -128,25 +139,14 @@ I’m a **security-focused full-stack developer and instructor** passionate abou
 
 ---
 
-###  Featured Projects
+## Location
 
-| Project | Description | Tech Stack |
-|:--|:--|:--|
-| <a href="https://syedtashfin.vercel.app/Evoting.mp4" target="_blank"><b>E-Voting DApp — Blockchain Voting System ↗</b></a> | Decentralized eVoting application enabling secure, transparent, and tamper-proof elections using Ethereum smart contracts. | Next.js · Node.js · Solidity · Ethereum · Web3.js · Truffle · Ganache |
-| <a href="https://linguistic-communication.com/" target="_blank"><b>Linguistic Communication Portal ↗</b></a> | E-learning & course automation system for schools and businesses. | WordPress · LearnPress · n8n · Stripe |
-| <a href="https://syntax-map.com/" target="_blank"><b>SyntaxMap AI ↗</b></a> | AI assistant for academic writing & translation workflows. | Next.js · TypeScript · Tailwind |
-
-
-
-###  Location  
-
-📍 Saint-Ouen, Île-de-France, France  
- 
+📍 Saint-Ouen, Île-de-France, France
 
 ---
 
 <p align="center">
-  <i>“Turning risk into robust engineering decisions and polished user experiences.”</i><br><br>
-  <b>Available for hire · © 2025 Syed Mohammad Shah Mostafa</b><br>
-  <sub>Made using Next.js & Tailwind CSS</sub>
+  <i>Turning risk into robust engineering decisions and usable systems.</i><br><br>
+  <b>Available for internships and engineering projects</b><br>
+  <sub>© 2026 Syed Mohammad Shah Mostafa</sub>
 </p>
